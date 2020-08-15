@@ -1,0 +1,154 @@
+{
+    "records" : [
+        {
+        "f_name" :  "Finn", 
+        "l_name":   "Joyner", 
+        "zipcode" : "55021",
+        "phone" :   "2552414411"
+        },
+        {
+        "f_name" :  "Alex", 
+        "l_name":   "Ross", 
+        "zipcode" : "189441111",
+        "phone" :   "389-689-7832"
+        },
+        {
+        "f_name" :  "Ber tie", 
+        "l_name":   "McFee", 
+        "zipcode" : "53095-1111",
+        "phone" :   "1028456053"
+        },
+        {
+        "f_name" :  "Vihaan", 
+        "l_name":   "Molina", 
+        "zipcode" : "56847",
+        "phone" :   "961-289-3014"
+        },
+        {
+        "f_name" :  "Sheena", 
+        "l_name":   "Yates", 
+        "zipcode" : "217012222",
+        "phone" :   "5555555555"
+        },
+        {
+        "f_name" :  "K3anu", 
+        "l_name":   "Reeves", 
+        "zipcode" : "53072-1111",
+        "phone" :   "041-146-8735"
+        },
+        {
+        "f_name" :  "Jack", 
+        "l_name":   "Flynn", 
+        "zipcode" : "37379",
+        "phone" :   "0151207056"
+        },
+        {
+        "f_name" :  "Bella", 
+        "l_name":   "Freemont", 
+        "zipcode" : "113731111",
+        "phone" :   "359-290-0137"
+        },
+        {
+        "f_name" :  "Louisa", 
+        "l_name":   "Ber ry", 
+        "zipcode" : "12345-5678",
+        "phone" :   "8015982788"
+        },
+        {
+        "f_name" :  "Karol", 
+        "l_name":   "Diaz", 
+        "zipcode" : "46514",
+        "phone" :   "674-589-6485"
+        },
+        {
+        "f_name" :  "Penny", 
+        "l_name":   "Henderson", 
+        "zipcode" : "559121111",
+        "phone" :   "8918415989"
+        },
+        {
+        "f_name" :  "Kerry", 
+        "l_name":   "B4iley", 
+        "zipcode" : "60076-1111",
+        "phone" :   "848-060-8280"
+        },
+        {
+        "f_name" :  "Gregg", 
+        "l_name":   "Blair", 
+        "zipcode" : "29445",
+        "phone" :   "0881043692"
+        },
+        {
+        "f_name" :  "Victoria", 
+        "l_name":   "Wong", 
+        "zipcode" : "346985555",
+        "phone" :   "188-342-6954"
+        },
+        {
+        "f_name" :  "Brandi", 
+        "l_name":   "Oliver", 
+        "zipcode" : "5351a-5555",
+        "phone" :   "2889851486"
+        },
+        {
+        "f_name" :  "Phyllis", 
+        "l_name":   "Patton", 
+        "zipcode" : "32547",
+        "phone" :   "374-291-5308"
+        },
+        {
+        "f_name" :  "Roy", 
+        "l_name":   "Hunt", 
+        "zipcode" : "490156666",
+        "phone" :   "1118345320"
+        },
+        {
+        "f_name" :  "Alvin", 
+        "l_name":   "Kim", 
+        "zipcode" : "070506666",
+        "phone" :   "434-002-7171"
+        },
+        {
+        "f_name" :  "Kathy", 
+        "l_name":   "Ferguson", 
+        "zipcode" : "08096",
+        "phone" :   "4562891773"
+        },
+        {
+        "f_name" :  "Roberta", 
+        "l_name":   "Willis", 
+        "zipcode" : "190201111",
+        "phone" :   "094-245-8315"
+        },
+        {
+        "f_name" :  "Rodney", 
+        "l_name":   "Craig", 
+        "zipcode" : "44805-8888",
+        "phone" :   "52526762"
+        },
+        {
+        "f_name" :  "Clint", 
+        "l_name":   "Vega", 
+        "zipcode" : "02904",
+        "phone" :   "630-408-5199"
+        },
+        {
+        "f_name" :  "Tamara", 
+        "l_name":   "Coleman", 
+        "zipcode" : "596013333",
+        "phone" :   "6167405231"
+        },
+        {
+        "f_name" :  "Natalie", 
+        "l_name":   "Moody", 
+        "zipcode" : "15146-3333",
+        "phone" :   "655-abc-7702"
+        },
+        {
+        "f_name" :  "Andre", 
+        "l_name":   "Baldwin", 
+        "zipcode" : "29445",
+        "phone" :   "4314691353"
+        }
+    ]
+}

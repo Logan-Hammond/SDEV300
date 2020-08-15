@@ -1,0 +1,304 @@
+{
+    "states" : [
+        {
+        "name" : "Alabama", 
+        "capital": "Montgomery", 
+        "bird" : "Yellowhammer",
+        "flower" : "Camellia"
+        },
+        {
+        "name" : "Alaska", 
+        "capital": "Juneau", 
+        "bird" : "Willow Ptarmigan",
+        "flower" : "Forget Me Not"
+        },
+        {
+        "name" : "Arizona", 
+        "capital": "Phoenix", 
+        "bird" : "Cactus Wren",
+        "flower" : "Saguaro Cactus Blossom"
+        },
+        {
+        "name" : "Arkansas", 
+        "capital": "Little Rock", 
+        "bird" : "Mockingbird",
+        "flower" : "Apple Blossom"
+        },
+        {
+        "name" : "California", 
+        "capital": "Sacramento", 
+        "bird" : "California Valley Quail",
+        "flower" : "California Poppy"
+        },
+        {
+        "name" : "Colorado", 
+        "capital": "Denver", 
+        "bird" : "Lark Bunting",
+        "flower" : "White and Lavender Columbine"
+        },
+        {
+        "name" : "Connecticut", 
+        "capital": "Hartford", 
+        "bird" : "Robin",
+        "flower" : "Mountain Laurel"
+        },
+        {
+        "name" : "Delaware", 
+        "capital": "Dover", 
+        "bird" : "Blue Hen",
+        "flower" : "Peach Blossom"
+        },
+        {
+        "name" : "Florida", 
+        "capital": "Tallahassee", 
+        "bird" : "Mockingbird",
+        "flower" : "Orange Blossom"
+        },
+        {
+        "name" : "Georgia", 
+        "capital": "Atlanta", 
+        "bird" : "Brown Thrasher",
+        "flower" : "Cherokee Rose"
+        },
+        {
+        "name" : "Hawaii", 
+        "capital": "Honolulu", 
+        "bird" : "Nene",
+        "flower" : "Hibiscus"
+        },
+        {
+        "name" : "Idaho", 
+        "capital": "Boise", 
+        "bird" : "Mountain Bluebird",
+        "flower" : "Syringa"
+        },
+        {
+        "name" : "Illinois", 
+        "capital": "Springfield", 
+        "bird" : "Cardinal",
+        "flower" : "Purple Violet"
+        },
+        {
+        "name" : "Indiana", 
+        "capital": "Indianapolis", 
+        "bird" : "Cardinal",
+        "flower" : "Peony"
+        },
+        {
+        "name" : "Iowa", 
+        "capital": "Des Moines", 
+        "bird" : "Eastern Goldfinch",
+        "flower" : "Wild Prairie Rose"
+        },
+        {
+        "name" : "Kansas", 
+        "capital": "Topeka", 
+        "bird" : "Western Meadowlark", 
+        "flower" : "Sunflower"
+        },
+        {
+        "name" : "Kentucky", 
+        "capital": "Frankfort", 
+        "bird" : "Cardinal", 
+        "flower" : "Goldenrod"
+        },
+        {
+        "name" : "Louisiana", 
+        "capital": "Baton Rouge", 
+        "bird" : "Eastern Brown Pelican", 
+        "flower" : "Camellia"
+        },
+        {
+        "name" : "Maine", 
+        "capital": "Augusta", 
+        "bird" : "Chickadee", 
+        "flower" : "White Pine Cone and Tassel"
+        },
+        {
+        "name" : "Maryland", 
+        "capital": "Annapolis", 
+        "bird" : "Baltimore Oriole", 
+        "flower" : "Black-Eyed Susan"
+        },
+        {
+        "name" : "Massachusetts", 
+        "capital": "Boston", 
+        "bird" : "Chickadee",
+        "flower" : "Mayflower"
+        },
+        {
+        "name" : "Michigan", 
+        "capital": "Lansing", 
+        "bird" : "Robin",
+        "flower" : "Apple Blossom"
+        },
+        {
+        "name" : "Minnesota", 
+        "capital": "Saint Paul", 
+        "bird" : "Common Loon",
+        "flower" : "Pink and White Lady Slipper"  
+        },
+        {
+        "name" : "Mississippi", 
+        "capital": "Jackson", 
+        "bird" : "Mockingbird",
+        "flower" : "Magnolia"
+        },
+        {
+        "name" : "Missouri", 
+        "capital": "Jefferson City", 
+        "bird" : "Bluebird",
+        "flower" : "White Hawthorn Blossom"
+        },
+        {
+        "name" : "Montana", 
+        "capital": "Helena", 
+        "bird" : "Western Meadowlark",
+        "flower" : "Bitterroot"
+        },
+        {
+        "name" : "Nebraska", 
+        "capital": "Lincoln", 
+        "bird" : "Western Meadowlark",
+        "flower" : "Goldenrod"
+        },
+        {
+        "name" : "Nevada", 
+        "capital": "Carson City", 
+        "bird" : "Mountain Bluebird",
+        "flower" : "Sagebrush"
+        },
+        {
+        "name" : "New Hampshire", 
+        "capital": "Concord", 
+        "bird" : "Purple Finch",
+        "flower" : "Purple Lilac"
+        },
+        {
+        "name" : "New Jersey", 
+        "capital": "Trenton", 
+        "bird" : "Eastern Goldfinch",
+        "flower" : "Violet"
+        },
+        {
+        "name" : "New Mexico", 
+        "capital": "Santa Fe", 
+        "bird" : "Roadrunner",
+        "flower" : "Yucca Flower"
+        },
+        {
+        "name" : "New York", 
+        "capital": "Albany", 
+        "bird" : "Bluebird",
+        "flower" : "Rose"
+        },
+        {
+        "name" : "North Carolina", 
+        "capital": "Raleigh", 
+        "bird" : "Cardinal",
+        "flower" : "Dogwood"
+        },
+        {
+        "name" : "Ohio", 
+        "capital": "Columbus", 
+        "bird" : "Cardinal",
+        "flower" : "Dogwood"
+        },
+        {
+        "name" : "Oklahoma", 
+        "capital": "Oklahoma City", 
+        "bird" : "Scissor-Tailed Flycatcher",
+        "flower" : "Mistletoe"
+        },
+        {
+        "name" : "Oregon", 
+        "capital": "Salem", 
+        "bird" : "Western Meadowlark",
+        "flower" : "Oregon Grape"
+        },
+        {
+        "name" : "Pennsylvania", 
+        "capital": "Harrisburg", 
+        "bird" : "Ruffed Grouse",
+        "flower" : "Mountain Laurel"
+        },
+        {
+        "name" : "Rhode Island", 
+        "capital": "Providence", 
+        "bird" : "Rhode Island Red",
+        "flower" : "Violet"
+        },
+        {
+        "name" : "South Carolina", 
+        "capital": "Columbia", 
+        "bird" : "Great Carolina Wren",
+        "flower" : "Yellow Jessamine"
+        },
+        {
+        "name" : "North Dakota", 
+        "capital": "Bismarck", 
+        "bird" : "Western Meadowlark",
+        "flower" : "Wild Prairie Rose"
+        },
+        {
+        "name" : "South Dakota", 
+        "capital": "Pierre", 
+        "bird" : "Ring-Necked Pheasant",
+        "flower" : "Pasque Flower"
+        },
+        {
+        "name" : "Tennessee", 
+        "capital": "Nashville", 
+        "bird" : "Mockingbird",
+        "flower" : "Iris"
+        },
+        {
+        "name" : "Texas", 
+        "capital": "Austin", 
+        "bird" : "Mockingbird",
+        "flower" : "Bluebonnet"
+        },
+        {
+        "name" : "Utah", 
+        "capital": "Salt Lake City", 
+        "bird" : "California Seagull",
+        "flower" : "Sego Lily"
+        },
+        {
+        "name" : "Vermont", 
+        "capital": "Montpelier", 
+        "bird" : "Hermit Thrush",
+        "flower" : "Red Clover"
+        },
+        {
+        "name" : "Virginia", 
+        "capital": "Richmond", 
+        "bird" : "Cardinal",
+        "flower" : "Dogwood"
+        },
+        {
+        "name" : "Washington", 
+        "capital": "Olympia", 
+        "bird" : "Willow Goldfinch",
+        "flower" : "Pink Rhododendron"
+        },
+        {
+        "name" : "West Virginia", 
+        "capital": "Charleston", 
+        "bird" : "Cardinal",
+        "flower" : "Rhododendron"
+        },
+        {
+        "name" : "Wisconsin", 
+        "capital": "Madison", 
+        "bird" : "Robin",
+        "flower" : "Wood Violet"
+        },
+        {
+        "name" : "Wyoming", 
+        "capital": "Cheyenne", 
+        "bird" : "Western Meadowlark",
+        "flower" : "Indian Paintbrush"
+        }
+    ]
+}

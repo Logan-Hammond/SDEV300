@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>SDEV 300 - Lab 8</title>
+    </head>
+<body bgcolor="#0033cc">
+    <!--Login form-->
+    <h3>Click submit to login.</h3>
+    <form action="/login" method="post">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" value="">
+        <br>
+        <label for="password">Password:</label>
+        <input type="text" id="password" name="password" value="">
+        <br>
+        <input type="submit" value="Submit">
+        <input type="reset" value="Reset">
+    </form> 
+    
+    <!--Signup form-->
+    <h3>Click submit to create new account.</h3>
+    <form action="/signup" method="post">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" value="">
+        <br>
+        <label for="password">Password:</label>
+        <input type="text" id="password" name="password" value="">
+        <br>
+        <label for="cpass">Re-enter password:</label>
+        <input type="text" id="cpass" name="cpass" value="">
+        <br>
+        <input type="submit" value="Submit">
+        <input type="reset" value="Reset">
+    </form> 
+    
+    <!--Password update form-->
+    <h3>Click submit to update password for given username.</h3>
+    <form action="/update" method="post">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" value="">
+        <br>
+        <label for="password">New password:</label>
+        <input type="text" id="password" name="password" value="">
+        <br>
+        <label for="cpass">Re-enter password:</label>
+        <input type="text" id="cpass" name="cpass" value="">
+        <br>
+        <input type="submit" value="Submit">
+        <input type="reset" value="Reset">
+    </form> 
+    
+</body>
+</html>
