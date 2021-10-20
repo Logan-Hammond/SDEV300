@@ -1,7 +1,7 @@
 ### About
 Showcase of work done in my software development SDEV 300 course.
 
-Made with Visual Studio Code and Amazon AWZ. These programs were made following project guidelines; source code may not accurately represent personal knowledge, skill, style, or philosophy.
+Made with Visual Studio Code and AWS. These programs were made following project guidelines; source code may not accurately represent personal knowledge, skill, style, or philosophy.
 
 Feel free to leave comments, fork, or make a PR if you are inclined. Keep in mind however this is a not a tool, but rather a personal showcase of working knowledge.
 
